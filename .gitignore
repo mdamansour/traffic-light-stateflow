@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings and swap files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MATLAB / Simulink generated artifacts
+slprj/
+codegen/
+sfun/
+simulink_cache/
+simulink_output/
+*.asv
+*.autosave
+*.mex*
+*.slxc
